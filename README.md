@@ -1,1 +1,1 @@
-# task7-Sales-Summary-SQLite-Pythonite
+# task7-Sales-Summary-SQLite-Python
