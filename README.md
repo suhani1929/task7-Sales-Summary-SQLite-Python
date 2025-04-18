@@ -1,5 +1,5 @@
 # task7-Sales-Summary-SQLite-Python
-# 📊 Basic Sales Summary — SQLite + Python
+## 📊 Basic Sales Summary — SQLite + Python
 
 A mini project to generate basic sales insights from a tiny SQLite database using **Python**, **pandas**, and **matplotlib**. Perfect for beginners learning SQL and data visualization!
 
